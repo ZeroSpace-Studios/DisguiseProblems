@@ -1,4 +1,4 @@
-# Disguise Problems
+# Disguise Issues
 
 Documenting issues found within the Disguise Media Server Software.
 
