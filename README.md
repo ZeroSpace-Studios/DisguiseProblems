@@ -1,6 +1,6 @@
 # Disguise Issues
 
-Documenting issues found within the Disguise Media Server Software.
+Documenting issues found within the Disguise Media Server Software and their possible workarounds. This is a community effort, so please feel free to contribute.
 
 ## Structure
 
